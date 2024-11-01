@@ -3,13 +3,13 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  {
-    'luk400/vim-jukit',
-    -- opts = function()
-    --   vim.g.jukit_shell_cmd = 'ipython3'
-    --   vim.g.jukit_terminal = ''
-    --   vim.g.jukit_notebook_viewer = 'code'
-    -- end,
-  },
+  -- {
+  --   'luk400/vim-jukit',
+  --   -- opts = function()
+  --   --   vim.g.jukit_shell_cmd = 'ipython3'
+  --   --   vim.g.jukit_terminal = ''
+  --   --   vim.g.jukit_notebook_viewer = 'code'
+  --   -- end,
+  -- },
 }
 -- vim: ts=2 sts=2 sw=2 et
